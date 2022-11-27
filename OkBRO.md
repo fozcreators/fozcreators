@@ -1,7 +1,4 @@
--- https://discord.gg/Uj4ZYJungZ
--- join nova hub
--- some of the features here are from nova hub
--- len you are a really good scripter
+-- bro led welcome
 -- ok now have fun gamers
 
 
@@ -43,45 +40,6 @@ local words = {
     "kak nas....",
     "anh ah chaimpian",
     "broangled777",
-    "having issues playing the game? get .gg/EzDK4AD5Yj",
-    "is your dad spiderman? because he far from home",
-    "do you ever have problems with light users parrying your ds???",
-    "how are you that bad??🤣🤣😂🤣🤣",
-    "EZ EZ EZ EZ EZ",
-    "dont even bother insulting me 🤣🤣😂",
-    "this script was brought to you by raid shadow legends!!",
-    "do you like cheese?",
-    "are you even trying to kill me???",
-    "get rekt noobie",
-    "go get .gg/EzDK4AD5Yj now",
-    "imagine dying",
-    ".gg/EzDK4AD5Yj on top (not really)",
-    "L Bozo",
-    "clapped",
-    "nothing personel kid",
-    "damn bro you got the whole squad laughing 😂😂🤣",
-    "imagine targetting someone. but get clapped afterwards",
-    "according to the rules. You should not be hacking because it can get you banned 🤓🤓🤓",
-    "nerds be like: OMG LOOK AT THAT HACKER!!! LET'S GET HIM!!!🤓🤓🤓",
-    "why am i still writing this? -Probably ZaneIs",
-    "haha got you!!!",
-    "how are you that bad??🤣😂",
-    "нуб бозо",
-    "my reaction to that information 😐",
-    "OmG nO wAY a hACker!!!",
-    "Super Idol的笑容",
-    "goddamn i'm still writing -Probably ZaneIs",
-    "have you ever heard the hitgame AmongUs???",
-    "fr?",
-    'skill issue',
-    "touch grass losers",
-    "this move is called 'Devious Lick'",
-    "*Gorilla Sounds*",
-    "What's up guys it's quandale dingle here.",
-    "Bro got fake Jordans 💀",
-    "Caught in 4K",
-    "Turi ip ip",
-    "Say goodbye to your Kneecaps"
 }
 
 
