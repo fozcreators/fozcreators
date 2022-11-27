@@ -324,7 +324,7 @@ pcall(function()
     end
 end)
 
-local ui = loadstring(game:HttpGet('https://raw.githubusercontent.com/StepBroFurious/Script/main/HydraHubUi.lua'))()
+local ui = https://raw.githubusercontent.com/fozcreators/dsa/main/README.md
 local window = ui.new("combat warriors", Players.LocalPlayer.UserId, "user")
 local main = window:Category("main", "rbxassetid://7733965386")
 local player = window:Category("player", "rbxassetid://7743875962")
