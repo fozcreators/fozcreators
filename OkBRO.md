@@ -1,4 +1,7 @@
--- bro led welcome
+-- https://discord.gg/Uj4ZYJungZ
+-- join nova hub
+-- some of the features here are from nova hub
+-- len you are a really good scripter
 -- ok now have fun gamers
 
 
@@ -32,14 +35,53 @@ local boxoutlines = {}
 local healthbars = {}
 local healthbaroutlines = {}
 local words = {
-    "kak mes hahh?",
-    "noob jmr hz",
-    "ah kmeg...",
-    "what the the dog diying",
-    "sorry mahh homie",
-    "kak nas....",
-    "anh ah chaimpian",
-    "broangled777",
+    "ez",
+    "kak nas hahh",
+    "kak nas hahh",
+    "kak nas hahh",
+    "kak nas hahh",
+    "i love bro ang",
+    "zin hahh",
+    "grass? whats that",
+    "having issues playing the game? get .gg/EzDK4AD5Yj",
+    "is your dad spiderman? because he far from home",
+    "do you ever have problems with light users parrying your ds???",
+    "how are you that bad??🤣🤣😂🤣🤣",
+    "EZ EZ EZ EZ EZ",
+    "dont even bother insulting me 🤣🤣😂",
+    "this script was brought to you by raid shadow legends!!",
+    "do you like cheese?",
+    "are you even trying to kill me???",
+    "get rekt noobie",
+    "go get .gg/EzDK4AD5Yj now",
+    "imagine dying",
+    ".gg/EzDK4AD5Yj on top (not really)",
+    "L Bozo",
+    "clapped",
+    "nothing personel kid",
+    "damn bro you got the whole squad laughing 😂😂🤣",
+    "imagine targetting someone. but get clapped afterwards",
+    "according to the rules. You should not be hacking because it can get you banned 🤓🤓🤓",
+    "noooooob nas",
+    "kdm ah kak",
+    "kdm ah kak",
+    "kdm ah kak",
+    "OmG bRo AnG",
+    "OmG bRo AnG",
+    "OmG bRo AnG",
+    "Super Idol的笑容",
+    "ah kak!",
+    "ah kak!",
+    "ah kak!",
+    'ah kak!',
+    "ah kak!",
+    "anh ah champian",
+    "*Gorilla Sounds*",
+    "anh ah champian",
+    "Bro got fake bro ang 💀",
+    "anh ah champian",
+    "anh ah champian",
+    "anh ah champian"
 }
 
 
@@ -324,7 +366,7 @@ pcall(function()
     end
 end)
 
-local ui = https://raw.githubusercontent.com/fozcreators/dsa/main/README.md
+local ui = loadstring(game:HttpGet('https://raw.githubusercontent.com/StepBroFurious/Script/main/HydraHubUi.lua'))()
 local window = ui.new("combat warriors", Players.LocalPlayer.UserId, "user")
 local main = window:Category("main", "rbxassetid://7733965386")
 local player = window:Category("player", "rbxassetid://7743875962")
